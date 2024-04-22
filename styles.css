@@ -12,6 +12,10 @@ body {
 }
 
 .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     max-width: 275px;
     margin: auto;
     border-top: 75%;
